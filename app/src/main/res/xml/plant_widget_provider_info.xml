@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:initialKeyguardLayout="@layout/plant_widget_provider"
+    android:initialLayout="@layout/plant_widget_provider"
+    android:minHeight="100dp"
+    android:minWidth="100dp"
+    android:previewImage="@drawable/grass"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="1800000"
+    android:widgetCategory="home_screen"
+    tools:targetApi="jelly_bean_mr1" />
